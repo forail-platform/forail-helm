@@ -9,6 +9,10 @@ and the chart uses SemVer (`version`) plus the upstream Forail CalVer
 
 ## [Unreleased]
 
+## [2026.10.0] - date set when tagged
+
+Pins backend and frontend 2026.10.0.
+
 ### Security
 - **Redis now requires a password.** It ran `redis-server --appendonly yes` and
   nothing else, on a ClusterIP Service, so any pod that could route to it could
