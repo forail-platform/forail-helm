@@ -9,9 +9,9 @@ and the chart uses SemVer (`version`) plus the upstream Forail CalVer
 
 ## [Unreleased]
 
-## [2026.10.0] - date set when tagged
+## [2026.11.0] - 2026-11-20
 
-Pins backend and frontend 2026.10.0.
+Pins backend and frontend 2026.11.0.
 
 ### Security
 - **Redis now requires a password.** It ran `redis-server --appendonly yes` and
